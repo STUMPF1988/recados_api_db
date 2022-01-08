@@ -15,3 +15,5 @@ export interface IRecado {
 //   }
   
 //   export let recadoList: Recado[] = [];
+
+//teste
